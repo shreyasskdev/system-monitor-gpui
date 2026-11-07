@@ -6,10 +6,13 @@ A fast, hardware-accelerated Linux system monitor built in Rust using `gpui-kit`
 
 ### Dashboard (Sidebar Split View)
 <!-- Paste your Dashboard screenshot right here on GitHub -->
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/697148ad-3c66-4014-a1a8-3e1ae8761563" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/7cb41fe3-ad4f-4689-b871-8c357316f5c2" />
 
 
 ### Settings, Memory Strategy & Themes
 <!-- Paste your Settings screenshot right here on GitHub -->
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/a1a38f14-6368-432c-bca4-08ea36594e5f" />
 
 
 ## Features
